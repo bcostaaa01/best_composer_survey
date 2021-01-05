@@ -1,0 +1,27 @@
+body {
+  background-color: #ffef96;
+}
+h1 {
+  text-align: center;
+}
+p {
+  text-align: center;
+  font-size: 20px;
+}
+#survey-form {
+  width: 500px;
+  margin: 0 auto;
+}
+.label-burger {
+  display: inline-block;
+}
+.input-burger {
+  display: inline-block;
+}
+.row-tab {
+  display: block;
+  padding-top: 20px;
+}
+.label-select {
+  display: inline-block;
+}
